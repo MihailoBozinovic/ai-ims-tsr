@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+opencv-python-headless # Use headless for server environments
+numpy
+ultralytics
+python-multipart # For file uploads in FastAPI
+pathlib
+uuid
+gpmf # Based on gpmf.io import
+geopy # For geodesic in gpmfFunctions
+pandas # For trafficSignMapper
+torch
+torchvision
+boto3 # For AWS S3 interactions
+requests # For HTTP requests in gpmfFunctions
+python-dotenv # For loading environment variables
+pydantic # For data validation in FastAPI
